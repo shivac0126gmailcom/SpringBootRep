@@ -14,6 +14,8 @@ public class MessageRunner implements CommandLineRunner{
 		System.out.println("this is developer branch do you know this..");
 		
 		System.out.println("this is developer branch do you know this.. 2nd one");
+		
+		System.out.println("this is developer branch 3rd commit....");
 	}
 
 }
